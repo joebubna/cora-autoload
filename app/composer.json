@@ -1,7 +1,7 @@
 {
-    "name": "cora/route",
-    "description": "Easy routing library",
-    "keywords": ["framework", "cora", "demo"],
+    "name": "cora/autoload",
+    "description": "Easy autoloading of PHP class files",
+    "keywords": ["autoload", "autoloading", "cora", "demo", "php"],
     "license": "MIT",
     "authors": [
         {
