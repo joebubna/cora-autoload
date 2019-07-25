@@ -6,9 +6,6 @@ error_reporting(E_ALL);
 // Include Composer autoload
 include('../vendor/autoload.php');
 
-// Load Cora Autoload
-require('../Autoload.php');
-
 // OPTIONAL: grab config options to pass in to the autoloader
 $config = include('../config/autoload.php');
 
